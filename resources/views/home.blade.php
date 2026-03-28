@@ -1,7 +1,7 @@
 <x-layout>
-    <x-slot:title>
+    {{-- <x-slot:title>
         Welcome
-    </x-slot:title>
+    </x-slot:title> --}}
     
     <div class="mx-auto max-w-2xl">
         <div class="card bg-base-100 mt-8 shadow">
