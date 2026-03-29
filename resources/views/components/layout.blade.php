@@ -33,7 +33,7 @@
 
     <footer class="footer footer-center bg-base-300 text-base-content p-5 text-xs">
         <div>
-            <p>© 2025 Chirper - Built with Laravel and ❤️</p>
+            <p>© {{ now()->year }} Chirper - Built with Laravel and ❤️</p>
         </div>
     </footer>
 </body>
